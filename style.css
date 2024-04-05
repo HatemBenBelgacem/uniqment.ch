@@ -3,13 +3,26 @@ html {
     font-size: 20pt;
     font-weight: weight;
     font-style: normal;
-    
+
 }
 
-body{
+body {
     text-align: center;
+    position: absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%, -50%);
 }
 
-h1, h3 {
+h1,
+h3 {
     margin: 0px;
+}
+
+.contact p {
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
 }
