@@ -1,0 +1,15 @@
+html {
+    font-family: "Roboto Slab", serif;
+    font-size: 20pt;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+
+body{
+    text-align: center;
+}
+
+h1, h3 {
+    margin: 0px;
+}
